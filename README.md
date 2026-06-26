@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-white.png">
     <source media="(prefers-color-scheme: light)" srcset="./assets/logo-black.png">
-    <img src="./assets/logo-black.png" width="360" alt="笃行智元 DXZY.AI" />
+    <img src="./assets/logo-black.png" width="360" alt="术核AI SHUH.AI" />
   </picture>
 </p>
 <p align="center">
@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://dxzy.ai">官网</a>
+  <a href="https://shuh.ai">官网</a>
   ·
-  <a href="https://dxzy.ai/agent-course-2026">课程体系</a>
+  <a href="https://shuh.ai/agent-course-2026">课程体系</a>
   ·
-  <a href="https://dxzy.ai/about">品牌介绍</a>
+  <a href="https://shuh.ai/about">品牌介绍</a>
   ·
   <a href="https://github.com/dxzyai">GitHub</a>
 </p>
@@ -30,7 +30,7 @@
 
 ## 我们是谁
 
-笃行智元是一个专注 AI 大模型应用研发、企业级项目实践与人才培养的产研型品牌。我们把真实研发经验、项目交付方法和学习社区放在同一条路径上，帮助学习者从“会用模型”走向“能设计系统、能交付项目、能讲清方案”。
+术核AI 是一个专注 AI 大模型应用研发、企业级项目实践与人才培养的产研型品牌。我们把真实研发经验、项目交付方法和学习社区放在同一条路径上，帮助学习者从“会用模型”走向“能设计系统、能交付项目、能讲清方案”。
 
 我们关注的不只是工具清单，而是 AI 应用进入真实业务现场时必须面对的完整链路：
 
@@ -45,7 +45,7 @@
 
 ## AI 共学社区
 
-笃行智元的 GitHub Profile 不是单向展示页，而是社区入口。我们希望这里逐步沉淀一套面向中文 AI 学习者和工程团队的共学资源：
+术核AI 的 GitHub Profile 不是单向展示页，而是社区入口。我们希望这里逐步沉淀一套面向中文 AI 学习者和工程团队的共学资源：
 
 - **共学路线**：围绕 RAG、Agent、模型微调、私有化部署拆解学习路径。
 - **项目复盘**：把真实项目里的需求、架构取舍、评估指标和踩坑经验整理成可复用材料。
